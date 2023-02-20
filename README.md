@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://github.com/thiagocosta7">
-    <img align="center" src="https://raw.githubusercontent.com/thiagocosta7/thiagocosta7/main/me.png" width="180">
-  </a>
-
   <h3 align="center">Hi! 👋<br>I'm Thiago Costa!</h3>
 
   <p align="center">
