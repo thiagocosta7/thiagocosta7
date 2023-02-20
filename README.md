@@ -3,7 +3,7 @@
     <img align="center" src="https://raw.githubusercontent.com/thiagocosta7/thiagocosta7/main/me.png" width="180">
   </a>
 
-  <h3 align="center">Hi there! I'm Thiago Costa!</h3>
+  <h3 align="center">Hi! 👋<br>I'm Thiago Costa!</h3>
 
   <p align="center">
     Self-taught web developer building projects focused on high performance, high semantic level and best practices.
