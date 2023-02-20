@@ -9,10 +9,7 @@
     Self-taught web developer building projects focused on high performance, high semantic level and best practices.
   </p>
 
-  <br>
-
   [![Linkedin Badge](https://img.shields.io/badge/-thiagocosta7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/thiagocosta7/)
-  <br><br>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagocosta7&show_icons=true&locale=en&layout=compact&theme=transparent" alt="thiagocosta7" />
 </div>
