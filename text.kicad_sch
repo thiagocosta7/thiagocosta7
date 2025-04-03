@@ -1,0 +1,1587 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "24043868-120f-411f-9592-28d3be12aba2")
+	(paper "A4")
+	(lib_symbols)
+	(text "ITALIC LEFT 1.27"
+		(exclude_from_sim no)
+		(at 20.32 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "03a2c285-0570-464d-bf23-a8e87727829f")
+	)
+	(text "ITALIC BOTTOM 2.54"
+		(exclude_from_sim no)
+		(at 151.13 76.2 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "042c5570-a189-40eb-8936-a402ef52e708")
+	)
+	(text "BOLD LEFT 2.54"
+		(exclude_from_sim no)
+		(at 20.32 48.26 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "0ce657d5-94b2-4576-a8b0-8bb40fa0754e")
+	)
+	(text "Custom Font"
+		(exclude_from_sim no)
+		(at 13.97 195.58 0)
+		(effects
+			(font
+				(face "Pluto")
+				(size 10 10)
+			)
+			(justify left bottom)
+		)
+		(uuid "11433d2b-3269-4900-b7f8-0f1b0adba0f5")
+	)
+	(text "BOLD & ITALIC BOTTOM 1.27"
+		(exclude_from_sim no)
+		(at 134.62 76.2 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "14d37a86-89c6-496a-8cca-6ee75f221fd2")
+	)
+	(text "BOLD BOTTOM 2.54"
+		(exclude_from_sim no)
+		(at 146.05 76.2 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "16769d31-b4af-4554-bf7d-c790b6b1a609")
+	)
+	(text "BOLD LEFT 10 0.254"
+		(exclude_from_sim no)
+		(at 19.05 121.92 0)
+		(effects
+			(font
+				(size 10 10)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "28c2ce49-b0b5-424d-86f2-1a024932e8b6")
+	)
+	(text "BOLD & ITALIC RIGHT 1.27"
+		(exclude_from_sim no)
+		(at 71.12 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "319f74b1-f167-4bbd-afc4-e6ed86d340b6")
+	)
+	(text "NORMAL RIGHT 1.27"
+		(exclude_from_sim no)
+		(at 71.12 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3381dde5-7649-4164-91a5-7101a183b5e0")
+	)
+	(text "ITALIC TOP 2.54"
+		(exclude_from_sim no)
+		(at 87.63 21.59 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "358f435a-e3ae-4d8e-88d6-4883efef1c0e")
+	)
+	(text "NORMAL LEFT 1.27"
+		(exclude_from_sim no)
+		(at 20.32 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3984f335-83bc-41ae-9fef-fbe111715f97")
+	)
+	(text "BOLD & ITALIC BOTTOM 2.54"
+		(exclude_from_sim no)
+		(at 156.21 76.2 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "4caefb46-d7f9-40d9-8908-1773361491b1")
+	)
+	(text "BOLD LEFT 10 2.0"
+		(exclude_from_sim no)
+		(at 17.78 140.97 0)
+		(effects
+			(font
+				(size 10 10)
+				(thickness 2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "507a759c-6eea-4e9e-9010-b2511bdf1e83")
+	)
+	(text "BOLD BOTTOM 1.27"
+		(exclude_from_sim no)
+		(at 127 76.2 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "514e2d4b-292f-43d8-889d-1ad62c0533c9")
+	)
+	(text "ITALIC TOP 1.27"
+		(exclude_from_sim no)
+		(at 107.95 21.59 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "55d36fce-7674-4fd1-b152-f50ead0042a1")
+	)
+	(text "BOLD & ITALIC RIGHT 2.54"
+		(exclude_from_sim no)
+		(at 71.12 67.31 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "700e00b5-1966-4def-82ff-656be1775458")
+	)
+	(text "NORMAL BOTTOM 1.27"
+		(exclude_from_sim no)
+		(at 123.19 76.2 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "72a022ea-11da-4039-aa94-39155f7c33eb")
+	)
+	(text "NORMAL TOP 2.54"
+		(exclude_from_sim no)
+		(at 97.79 21.59 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify right bottom)
+		)
+		(uuid "756e570f-da3d-477a-8f50-bea87ced3a71")
+	)
+	(text "BOLD & ITALIC TOP 1.27"
+		(exclude_from_sim no)
+		(at 104.14 21.59 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "7e1e8691-e9e0-4ad4-b557-0f27c28cb682")
+	)
+	(text "ITALIC RIGHT 1.27"
+		(exclude_from_sim no)
+		(at 71.12 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "84011c94-6e9f-4bc9-83cd-30669752dbc0")
+	)
+	(text "BOLD TOP 1.27"
+		(exclude_from_sim no)
+		(at 111.76 21.59 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "86b548ac-dc67-4998-a02b-f7efd499cc91")
+	)
+	(text "ITALIC RIGHT 2.54"
+		(exclude_from_sim no)
+		(at 71.12 72.39 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "8cacd378-c8f8-4b70-a765-5554ed727d72")
+	)
+	(text "BOLD & ITALIC LEFT 1.27"
+		(exclude_from_sim no)
+		(at 20.32 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "8d59f444-d30d-4323-9667-2f99e1bda5b7")
+	)
+	(text "BOLD & ITALIC LEFT 2.54"
+		(exclude_from_sim no)
+		(at 20.32 58.42 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "91606fe5-99fe-4281-8253-9396e4676e41")
+	)
+	(text "NORMAL RIGHT 2.54"
+		(exclude_from_sim no)
+		(at 71.12 82.55 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify right bottom)
+		)
+		(uuid "9c1c8c49-23e6-4a50-a425-b730dfc52cf8")
+	)
+	(text "BOLD & ITALIC TOP 2.54"
+		(exclude_from_sim no)
+		(at 82.55 21.59 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "a376ff4a-3cc3-46c7-89b2-b629d1f6a9e8")
+	)
+	(text "ITALIC LEFT 2.54"
+		(exclude_from_sim no)
+		(at 20.32 53.34 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "a787fffe-c526-466e-b6c0-613b9d857166")
+	)
+	(text "NORMAL TOP 1.27"
+		(exclude_from_sim no)
+		(at 115.57 21.59 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a9d8c2be-765e-46b1-b732-b04142d2f03b")
+	)
+	(text "BOLD RIGHT 2.54"
+		(exclude_from_sim no)
+		(at 71.12 77.47 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "bc7bf817-e021-4dca-a0ab-59a4278c4b57")
+	)
+	(text "NORMAL BOTTOM 2.54"
+		(exclude_from_sim no)
+		(at 140.97 76.2 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left bottom)
+		)
+		(uuid "c48411d1-c5c8-4403-87aa-7940f48f4757")
+	)
+	(text "BOLD RIGHT 1.27"
+		(exclude_from_sim no)
+		(at 71.12 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "cf9c6e44-64c0-4815-8f80-af34f06aec30")
+	)
+	(text "BOLD TOP 2.54"
+		(exclude_from_sim no)
+		(at 92.71 21.59 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "d09e0ee3-b66d-4a3b-90bb-44ec554c3830")
+	)
+	(text "BOLD LEFT 1.27"
+		(exclude_from_sim no)
+		(at 20.32 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "ea029bb3-5877-4fd9-ac21-d85f16940001")
+	)
+	(text "NORMAL LEFT 2.54"
+		(exclude_from_sim no)
+		(at 20.32 43.18 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left bottom)
+		)
+		(uuid "f64acfd7-6ff1-4826-9d33-adca77de8eb5")
+	)
+	(text "ITALIC BOTTOM 1.27"
+		(exclude_from_sim no)
+		(at 130.81 76.2 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "fb96073f-003e-427f-a0ff-9509f78274a7")
+	)
+	(wire
+		(pts
+			(xy 214.63 48.26) (xy 214.63 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "020bcb2d-fb21-4cc9-a807-cc9b3ced9ca7")
+	)
+	(wire
+		(pts
+			(xy 190.5 29.21) (xy 190.5 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0483773e-3ae6-422d-96e7-b98f71d43f4e")
+	)
+	(polyline
+		(pts
+			(xy 71.12 21.59) (xy 71.12 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "071dc02a-59c8-48b9-a388-b5280eab17c5")
+	)
+	(polyline
+		(pts
+			(xy 19.05 21.59) (xy 71.12 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15072450-1b45-4edf-915d-ce23c6a6c477")
+	)
+	(wire
+		(pts
+			(xy 213.36 15.24) (xy 213.36 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f3ca839-8c9b-4547-824e-e6a7b91d697f")
+	)
+	(polyline
+		(pts
+			(xy 71.12 59.69) (xy 19.05 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "237edb45-6338-4127-85c1-c34ba91639ee")
+	)
+	(wire
+		(pts
+			(xy 180.34 39.37) (xy 184.15 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f51bae2-a0f0-497c-b275-036a01147691")
+	)
+	(wire
+		(pts
+			(xy 168.91 20.32) (xy 168.91 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39ebbc0e-9b4e-44ec-98e8-69d784073c8a")
+	)
+	(wire
+		(pts
+			(xy 184.15 39.37) (xy 184.15 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5836e2d5-b0e1-44b9-9d53-1f0f72e040c7")
+	)
+	(wire
+		(pts
+			(xy 200.66 44.45) (xy 234.95 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "749c7073-ba77-49eb-a9fb-9f70f722ea90")
+	)
+	(wire
+		(pts
+			(xy 190.5 29.21) (xy 173.99 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d7f51e8-8be3-449a-9f16-4da908b4024e")
+	)
+	(wire
+		(pts
+			(xy 180.34 39.37) (xy 180.34 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f77e9c3-8e31-4164-ad83-035a03362baa")
+	)
+	(wire
+		(pts
+			(xy 189.23 20.32) (xy 168.91 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "972c0fbb-887f-4d4e-9c3f-e07a6e4155cf")
+	)
+	(wire
+		(pts
+			(xy 171.45 60.96) (xy 175.26 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a51993a-bd89-4eda-bb55-c45f4425e684")
+	)
+	(wire
+		(pts
+			(xy 190.5 33.02) (xy 171.45 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3efa4f3-fc1d-4a2e-9e18-41d90be668eb")
+	)
+	(wire
+		(pts
+			(xy 186.69 24.13) (xy 168.91 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9135227-4176-48a8-b8d7-2ece26b050da")
+	)
+	(wire
+		(pts
+			(xy 243.84 19.05) (xy 243.84 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac037d66-fa0c-47ad-851f-878060c81030")
+	)
+	(wire
+		(pts
+			(xy 175.26 43.18) (xy 175.26 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c47956ee-ddf5-4d5d-80f5-d1c7571b9056")
+	)
+	(wire
+		(pts
+			(xy 171.45 40.64) (xy 171.45 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf510510-9db5-4265-9150-5538a5c262f2")
+	)
+	(polyline
+		(pts
+			(xy 19.05 21.59) (xy 19.05 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdbb713c-27cc-4a82-bc43-0bb666815e97")
+	)
+	(image
+		(at 220.98 130.81)
+		(scale 2.16216)
+		(uuid "a2be4c73-4f3a-4981-b039-d6fb2e165056")
+		(data "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"
+			"u8T9jPuoh6PHGo9mT8TTxzPfs91L0Svcq9Trubeud4J3jfewj63Pap9mX6yvv+9O3wccTQ6PU80Z"
+			"9rP3W+N3xZ/iH+pf6v8iwDRAEtC0EF7ot3DXwqeBBoGiwIYgEMQJ2hX0LNgoOC34l0W4RcGLyha9"
+			"DLEKyQlpDaWHLg89GvoxzD1se9iTcONwaXhLhHzEkojqiNFIz8jCyO6oeVFrom5Fq0ULoxtj8DER"
+			"MVUxI4u9Fu9e3LfEdknekvtLjZauWnpjmdqylGXnl8sv5y4/FYuNjYw9GjvODeJWckfiOHHlccM8"
+			"D94e3mu+G7+IPyhwFhQK+uOd4wvjBxKcE3YlDCa6JhYnDgk9hKXCt0m+SQeSRpODkg8nT6REptSl"
+			"ElJjU8+KFEXJoisrtFasWtEpNhPnibvTHNN2pw1L/CVV6VD60vTGDCV0UGqTGku/k/ZkumSWZX5a"
+			"GbHy1CraKtGqtizTrC1Z/dne2T+txqzmrW7J0cnZkNOzhr2mYi20Nm5tyzq9dbnr+tb7rD+ygbQh"
+			"ecOvGy03Fm78sClyU1OuZu763N7vfL6ryZPLk+Q92Oy0+cD3mO+F37dvsdmyd8u3fH7+zQLLguKC"
+			"8a28rTd/sPqh5IeJbfHb2rfbbd+/A7dDtOP+TtedRwpphdmFvbsW7qovYhblF33YvXz3jeL5xQf2"
+			"kPZI93SXBJQ07tXfu2PveGli6b0y97K6co3yLeWj+/j7uva77a89oHmg4MCXH4U/PqzwqaivNKws"
+			"Pog7mHnw5aGIQ60/sX6qrlKrKqj6elh0uPtIyJEr1fbV1Uc1jm6vgWukNYPHlhzrOO55vLHWvLai"
+			"jlFXcAKckJ549XPsz/dP+p9sOcU6VXva4HT5GfqZ/HqoPqt+uCGxobsxurHzrN/ZlianpjO/WPxy"
+			"+JzOubLzyue3XyBdyL0wcTH74kizuHnoUsKl3pblLU8uR12+e2XRlfar/levX/O+drmV3XrxuvP1"
+			"czccb5y9ybrZcMvuVn2bbduZX21/PdNu115/2/52Y4dDR1Pngs4LXa5dl+543rl2l3P31r3Ae533"
+			"w+8/fLDkQfdD/sOBRymP3j7OfDz2ZP1T7NP8ZwrPip9rPK/8zeS3um677vM9nj1tL0JfPOnl9b7+"
+			"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"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		)
+	)
+	(label "right bold 1.27"
+		(at 190.5 29.21 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "1d4b12b7-9d0c-4376-845b-50cbb3237d28")
+	)
+	(label "bottom bold 1.27"
+		(at 175.26 60.96 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "40a209e0-a033-4278-a2ca-a95999baeb05")
+	)
+	(label "top bold 1.27"
+		(at 180.34 39.37 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "9c761ea3-0ce4-4281-be17-6c0afba9c1eb")
+	)
+	(label "top normal 1.27"
+		(at 184.15 39.37 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a80641e4-914c-4416-b735-40591b42e7e8")
+	)
+	(label "right normal 1.27"
+		(at 190.5 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ae737485-9fb3-4401-82b1-3bbc4fc2e2c1")
+	)
+	(label "left bold 1.27"
+		(at 168.91 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "c03b598c-68a8-44b0-8317-44a6fe501940")
+	)
+	(label "bottom normal 1.27"
+		(at 171.45 60.96 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "db0d0fc8-1ad1-44b7-89fd-492b02b3d03a")
+	)
+	(label "left normal 1.27"
+		(at 168.91 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fdb89b61-e1d5-4cc8-82f6-af68a09c770b")
+	)
+	(global_label "passive"
+		(shape passive)
+		(at 214.63 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "03e13395-8ce5-4e97-9d85-3ceffff9c191")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 236.6594 93.853 0)
+			(effects
+				(font
+					(size 3 3)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "input"
+		(shape input)
+		(at 214.63 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "091f0da6-98ee-4e73-9ca5-fd64d8965928")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 222.0111 48.133 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "top bold"
+		(shape input)
+		(at 204.47 44.45 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "46f1806a-ded0-427a-86f2-caf8b10c7749")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.343 55.1573 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "left bold"
+		(shape input)
+		(at 213.36 25.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "5aa04a61-f427-41da-b108-6a1db03bc99f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 224.2487 25.273 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "top normal"
+		(shape input)
+		(at 200.66 44.45 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5f553bf0-2705-423b-af72-2b3c34b8d2b8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 200.5806 57.4464 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "right bold"
+		(shape input)
+		(at 213.36 22.86 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "649ded64-3879-4029-8ac1-03b6e6875460")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 201.2617 22.733 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "bidi"
+		(shape bidirectional)
+		(at 214.63 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "6b36ead2-0e46-453c-95d1-11ed0db5f4ff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 228.3737 81.153 0)
+			(effects
+				(font
+					(size 3 3)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "tri"
+		(shape tri_state)
+		(at 214.63 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "6bb40636-1b56-44d5-9b9d-51347b6a9365")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 219.3502 59.563 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "bottom normal"
+		(shape input)
+		(at 200.66 44.45 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6fa3ca36-f215-4e78-875f-d0701851d916")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 200.5806 27.8855 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "right normal"
+		(shape input)
+		(at 213.36 15.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "734d46ea-55bf-4273-ad3d-61dedd831fe8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 198.9726 15.1606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "left normal"
+		(shape input)
+		(at 213.36 19.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "772117c8-d6f4-46ac-a5f9-50c99347e936")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 226.5379 18.9706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "bottom bold"
+		(shape input)
+		(at 204.47 44.45 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "83aa33e8-558a-4c49-92da-ede06491d80f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.343 30.1746 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "tri"
+		(shape tri_state)
+		(at 214.63 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "86d2b8e2-c827-4276-b2e1-ee36a6821dd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 225.088 87.503 0)
+			(effects
+				(font
+					(size 3 3)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "bidi"
+		(shape bidirectional)
+		(at 214.63 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "8d9d4033-6ec5-41fd-9156-2cff57f7ae69")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 220.7411 55.753 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "passive"
+		(shape passive)
+		(at 214.63 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "9967b289-a136-4d6b-9d5e-e0a8957e6bfa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 224.2487 63.373 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "output"
+		(shape output)
+		(at 214.63 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "aac281b4-bd59-415e-88d5-1b3629652ae0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 223.2811 51.943 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "input"
+		(shape input)
+		(at 214.63 68.58 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "d5f92251-27de-4714-846b-072c3d989606")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 231.3737 68.453 0)
+			(effects
+				(font
+					(size 3 3)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "output"
+		(shape output)
+		(at 214.63 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "eedf4bf5-5958-4ef2-8a87-1cd8c4765c72")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 234.3737 74.803 0)
+			(effects
+				(font
+					(size 3 3)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(hierarchical_label "output"
+		(shape output)
+		(at 241.3 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0819a3ed-4945-46d8-8ecd-0ded25b6607d")
+	)
+	(hierarchical_label "left bold"
+		(shape input)
+		(at 243.84 21.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "08f58dc0-5685-45e6-a2f3-23d4209e5f10")
+	)
+	(hierarchical_label "top bold"
+		(shape input)
+		(at 234.95 44.45 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "108286f7-1bab-49e5-9b6f-cfe58bec2aa7")
+	)
+	(hierarchical_label "bottom normal"
+		(shape input)
+		(at 232.41 44.45 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1c136e1a-8a5b-48b1-8201-11080252b631")
+	)
+	(hierarchical_label "input"
+		(shape input)
+		(at 270.51 40.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "272564af-995c-4968-8e4c-03b3f710c15d")
+	)
+	(hierarchical_label "input"
+		(shape input)
+		(at 241.3 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2be85b5d-2687-48e2-b7b5-fa0e3c3bded3")
+	)
+	(hierarchical_label "bidirectional"
+		(shape bidirectional)
+		(at 270.51 35.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3094b8f1-77cf-4078-8a61-6696ac9533dc")
+	)
+	(hierarchical_label "tri-state"
+		(shape tri_state)
+		(at 270.51 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5521dd06-0d87-4441-b487-4fad11f6b500")
+	)
+	(hierarchical_label "right normal"
+		(shape input)
+		(at 243.84 19.05 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6afd51fa-198c-42a4-8ac7-28f16131b777")
+	)
+	(hierarchical_label "right bold"
+		(shape input)
+		(at 234.95 44.45 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "6f3dc39a-310c-43b6-a968-16ebfe2fef7c")
+	)
+	(hierarchical_label "passive"
+		(shape passive)
+		(at 270.51 30.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "71e8505d-bfcc-4526-92b1-f024d8b79a8d")
+	)
+	(hierarchical_label "output"
+		(shape output)
+		(at 270.51 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "733f3634-ff93-4191-994a-4e7cb539d971")
+	)
+	(hierarchical_label "tri-state"
+		(shape tri_state)
+		(at 241.3 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7ccaa19b-73e4-4f23-bf59-f1c6df499619")
+	)
+	(hierarchical_label "top normal"
+		(shape input)
+		(at 232.41 44.45 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8226f900-bb2a-4d1d-b6ee-23955f706030")
+	)
+	(hierarchical_label "bidirectional"
+		(shape bidirectional)
+		(at 241.3 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8d75e66a-0a21-45b7-896f-2b48023a76ef")
+	)
+	(hierarchical_label "left normal"
+		(shape input)
+		(at 243.84 19.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8e623593-39c9-4571-bc1e-8551ff5476ae")
+	)
+	(hierarchical_label "right bold"
+		(shape input)
+		(at 243.84 21.59 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "cbda3762-35b0-4fb3-84fb-745ea2637b44")
+	)
+	(hierarchical_label "passive"
+		(shape passive)
+		(at 241.3 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ddc54975-f5bb-4102-9c88-60d4901bd792")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
