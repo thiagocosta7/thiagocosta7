@@ -443,6 +443,27 @@
 		)
 		(uuid "fb96073f-003e-427f-a0ff-9509f78274a7")
 	)
+	(text_box "THIS IS A NOTE _ TEXT_BOX"
+		(exclude_from_sim no)
+		(at 247.65 140.97 0)
+		(size 29.21 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type color)
+			(color 255 247 2 1)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "28471637-049d-46c4-ab39-cb6296fd9926")
+	)
 	(wire
 		(pts
 			(xy 214.63 48.26) (xy 214.63 63.5)
